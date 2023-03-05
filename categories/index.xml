@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R2Labs | Labs Tests</title>
-    <link>http://r2labs.github.io/categories/</link>
+    <link>https://sudhugo.github.io/r2labs/categories/</link>
     <description>Recent content in Categories on R2Labs | Labs Tests</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://r2labs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sudhugo.github.io/r2labs/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

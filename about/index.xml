@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on R2Labs | Labs Tests</title>
-    <link>http://r2labs.github.io/about/</link>
+    <link>https://sudhugo.github.io/r2labs/about/</link>
     <description>Recent content in About Us on R2Labs | Labs Tests</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="http://r2labs.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://sudhugo.github.io/r2labs/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
